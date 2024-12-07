@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Was sind Change Logs?](README.md)
+* [Willkommen!](README.md)
+  * [Was sind Change Logs?](willkommen/was-sind-change-logs.md)
